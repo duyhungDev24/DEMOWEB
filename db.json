@@ -1,0 +1,389 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Điện thoại Xiaomi ",
+      "price": 3100000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/245261/Xiaomi-redmi-note-11-blue-600x600.jpg",
+      "description": "Sản phẩm 1",
+      "quantity": 1000,
+      "categoryId": 2,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-10-02T00:31:34.447Z",
+      "favorites": true,
+      "isFeatured": true
+    },
+    {
+      "id": 4,
+      "title": "Sản phẩm 4",
+      "price": 3100000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg",
+      "description": "Sản phẩm 4",
+      "quantity": 10000,
+      "categoryId": 2,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z",
+      "favorites": true,
+      "isFeatured": true
+    },
+    {
+      "id": 6,
+      "title": "Sản phẩm 6",
+      "price": 3100000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/245261/Xiaomi-redmi-note-11-blue-600x600.jpg",
+      "description": "Sản phẩm 6",
+      "quantity": 10000,
+      "categoryId": 2,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": 7,
+      "title": "Sản phẩm 7",
+      "price": 3100000000,
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/s/ss-s24-ultra-xam-222.png",
+      "description": "Sản phẩm 7",
+      "quantity": 1000,
+      "categoryId": 3,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Sản phẩm 8",
+      "price": 3100000000,
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23.png",
+      "description": "Sản phẩm 8",
+      "quantity": 10000000000,
+      "categoryId": 3,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Sản phẩm 9",
+      "price": 3190000000,
+      "image": "https://product.hstatic.net/1000370129/product/1e241019518f8f97535f104_master_e873eca7c12845f39ec8c99440a3c984_master_0f47ed0d5d29450f92b7396d04d86f59_master.png",
+      "description": "Sản phẩm 9",
+      "quantity": 100000000000000,
+      "categoryId": 3,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Sản phẩm 10",
+      "price": 3100000000,
+      "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_34767/oppo-reno12-5g-_main_365_450.png.webp",
+      "description": "Sản phẩm 10",
+      "quantity": 1,
+      "categoryId": 4,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Sản phẩm 11",
+      "price": 3100000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/314209/oppo-reno-11-xanh-thumb-600x600.jpg",
+      "description": "Sản phẩm 11",
+      "quantity": 1,
+      "categoryId": 4,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Sản phẩm 12",
+      "price": 3100000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/306980/oppo-reno10-pro-plus-thumbnew-600x600.jpg",
+      "description": "Sản phẩm 12",
+      "quantity": 1,
+      "categoryId": 4,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Sản phẩm 13",
+      "price": 3100000000,
+      "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_31709/vivo-y35-8gb-12_main_482.png",
+      "description": "Sản phẩm 13",
+      "quantity": 1,
+      "categoryId": 5,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Vivo S23 Plus",
+      "price": 3100000000,
+      "image": "https://mobilebazar.com.bd/assets/img/Vivo-Y34.webp",
+      "description": "Vivo",
+      "quantity": 13,
+      "categoryId": 5,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-11T18:00:53.204Z"
+    },
+    {
+      "title": "Iphone 13 ProMax",
+      "price": 10000000000,
+      "categoryId": 1,
+      "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-13_2_.png",
+      "quantity": 111,
+      "description": "iphone 13",
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-11T14:06:20.517Z",
+      "id": 16
+    },
+    {
+      "title": "Iphone 14 Promax",
+      "price": 10000000000,
+      "categoryId": 1,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg",
+      "quantity": 1000,
+      "description": "iphone 14 promax",
+      "createdAt": "2024-09-11T14:12:05.190Z",
+      "id": 17,
+      "updatedAt": "2024-09-11T14:12:13.746Z",
+      "isFeatured": true
+    },
+    {
+      "id": 18,
+      "title": "iPhone 13 Pro Max",
+      "price": 32990000000,
+      "image": "https://cdn11.dienmaycholon.vn/filewebdmclnew/DMCL21/Picture/Apro/Apro_product_27027/iphone-13-pro-m_main_451.png",
+      "description": "Điện thoại iPhone 13 Pro Max chính hãng",
+      "quantity": 1,
+      "categoryId": 1,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z",
+      "isFeatured": true
+    },
+    {
+      "id": 19,
+      "title": "Samsung Galaxy S21",
+      "price": 209900000000,
+      "image": "https://cdn.tgdd.vn/Products/Images/42/236128/samsung-galaxy-s21-plus-256gb-bac-600x600-600x600.jpg",
+      "description": "Điện thoại Samsung Galaxy S21 chính hãng",
+      "quantity": 1,
+      "categoryId": 3,
+      "createdAt": "2024-09-08T12:00:00Z",
+      "updatedAt": "2024-09-09T12:00:00Z",
+      "isFeatured": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Iphone",
+      "createdAt": "2024-09-08T12:00:00Z",
+      "isHidden": false
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi",
+      "createdAt": "2024-09-08T12:00:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Samsung",
+      "createdAt": "2024-09-08T12:00:00Z"
+    },
+    {
+      "id": 4,
+      "name": "Oppo",
+      "createdAt": "2024-09-08T12:00:00Z"
+    },
+    {
+      "id": 5,
+      "name": "Vivo",
+      "createdAt": "2024-09-08T12:00:00Z",
+      "isHidden": false
+    },
+    {
+      "name": "Bphone",
+      "createdAt": "2024-09-08T17:27:55.997Z",
+      "id": 6,
+      "isHidden": false
+    }
+  ],
+  "users": [
+    {
+      "email": "user2@gmail.com",
+      "password": "$2a$10$Bhwg/vBuImRIDJSSGcdjJO93UQHlrvtB19yDa2o82L.GPvelMVfLG",
+      "remember": true,
+      "registerAt": "2024-09-16T14:21:20+07:00",
+      "changePassAt": "2024-09-26T22:39:20.821Z",
+      "role": "admin",
+      "active": true,
+      "id": 4,
+      "carts": [],
+      "oldPassword": "User2pass"
+    },
+    {
+      "email": "admin2@gmail.com",
+      "password": "$2a$10$J0sxhwyfYn.7kv66ytOTCOWBgtAMo3Zdrhnh2M3j0mjjTq.5mBSce",
+      "remember": true,
+      "registerAt": "2024-09-17T15:21:21+07:00",
+      "changePassAt": "2024-09-21T22:27:38.528Z",
+      "role": "admin",
+      "active": true,
+      "id": 6,
+      "CartID": [],
+      "oldPassword": "Hungnguyen1"
+    }
+  ],
+  "favorites": [
+    {
+      "productId": 1,
+      "userId": [
+        4
+      ],
+      "id": 5
+    },
+    {
+      "productId": 8,
+      "userId": [
+        6
+      ],
+      "id": 7
+    },
+    {
+      "productId": 13,
+      "userId": [
+        6
+      ],
+      "id": 8
+    }
+  ],
+  "carts": [],
+  "olders": [
+    {
+      "name": "NGUYEN DUY HUNG",
+      "phone": "09123214375",
+      "address": "Hà Nội",
+      "paymentMethod ": "bankTransfer",
+      "userId": 4,
+      "products": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "title": "Sản phẩm 1",
+          "price": 3100000000,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/245261/Xiaomi-redmi-note-11-blue-600x600.jpg"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "NGUYEN DUY HUNG",
+      "phone": "0394879813",
+      "address": "Hà Nội",
+      "paymentMethod": "bankTransfer",
+      "userId": 4,
+      "products": [
+        {
+          "productId": "1",
+          "quantity": 2,
+          "title": "Sản phẩm 1",
+          "price": 3100000000,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/245261/Xiaomi-redmi-note-11-blue-600x600.jpg"
+        }
+      ],
+      "olderTime": "2024-09-29T15:21:21+07:00",
+      "id": 4
+    },
+    {
+      "name": "NGUYEN DUY HUNG",
+      "phone": "0394879813",
+      "address": "Hà Nội",
+      "paymentMethod": "bankTransfer",
+      "userId": 4,
+      "products": [
+        {
+          "productId": "4",
+          "quantity": 2,
+          "title": "Sản phẩm 4",
+          "price": 3100000000,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg"
+        }
+      ],
+      "olderTime": "2024-09-29T15:21:21+07:00",
+      "id": 5
+    },
+    {
+      "name": "Nguyễn Phú Thành",
+      "phone": "0123123123",
+      "address": "Hà Nội",
+      "paymentMethod": "cashOnDelivery",
+      "userId": 4,
+      "products": [
+        {
+          "productId": "7",
+          "quantity": 2,
+          "title": "Sản phẩm 7",
+          "price": 3100000000,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/s/ss-s24-ultra-xam-222.png"
+        }
+      ],
+      "olderTime": "2024-09-28T21:35:44.552Z",
+      "id": 6
+    },
+    {
+      "name": "Chalesto Drocalo",
+      "phone": "(+84) 394 879 813",
+      "address": "Ha Noi",
+      "paymentMethod": "cashOnDelivery",
+      "userId": 4,
+      "products": [
+        {
+          "productId": "8",
+          "quantity": 1,
+          "title": "Sản phẩm 8",
+          "price": 3100000000,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-s23.png"
+        }
+      ],
+      "olderTime": "2024-09-28T21:37:20.418Z",
+      "id": 7
+    },
+    {
+      "name": "NGUYEN DUY HUNG",
+      "phone": "0394879813",
+      "address": "Hà Nội",
+      "paymentMethod": "bankTransfer",
+      "userId": 4,
+      "products": [
+        {
+          "productId": "12",
+          "quantity": 1,
+          "title": "Sản phẩm 12",
+          "price": 3100000000,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/306980/oppo-reno10-pro-plus-thumbnew-600x600.jpg"
+        }
+      ],
+      "olderTime": "2024-09-28T21:39:34.566Z",
+      "id": 8
+    },
+    {
+      "name": "Nguyễn Duy Hưng",
+      "phone": "0394879813",
+      "address": "Hà Nội",
+      "paymentMethod": "cashOnDelivery",
+      "userId": 6,
+      "products": [
+        {
+          "productId": "4",
+          "quantity": 1,
+          "title": "Sản phẩm 4",
+          "price": 3100000000,
+          "image": "https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg"
+        }
+      ],
+      "olderTime": "2024-10-02T00:07:13.890Z",
+      "id": 9
+    }
+  ]
+}
